@@ -1,5 +1,7 @@
 # Welcome to the Team 22 GitHub organization
 
+[![footer](https://github.com/user-attachments/assets/e5cd80d9-ed55-4e21-bd84-125535ab5565)](https://github.com/MOVILES-G22-2025/Wiki?tab=readme-ov-file)
+
 #### Relevant Links
 [Wiki's main page](https://github.com/MOVILES-G22-2025/Wiki/wiki)
 
