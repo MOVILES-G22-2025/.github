@@ -1,4 +1,4 @@
-# Welcome to GitHub Organization Team 22
+# Welcome to the Team 22 GitHub organization
 
 #### Relevant Links
 [Wiki's main page](https://github.com/MOVILES-G22-2025/Wiki/wiki)
@@ -11,7 +11,7 @@
 
 [Analytics Repository]
 
-#### The team
+#### Team members
 
 | Name | Code | E-mail | GitHub username |
 | - | - | - | - |
