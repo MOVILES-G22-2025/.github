@@ -2,7 +2,7 @@
 
 [![footer](https://github.com/user-attachments/assets/e5cd80d9-ed55-4e21-bd84-125535ab5565)](https://github.com/MOVILES-G22-2025/Wiki?tab=readme-ov-file)
 
-#### Relevant Links
+### Relevant Links
 [Wiki's main page](https://github.com/MOVILES-G22-2025/Wiki/wiki)
 
 [Flutter Repository](https://github.com/MOVILES-G22-2025/Flutter)
@@ -13,7 +13,7 @@
 
 [Analytics Repository]
 
-#### Team members
+### Team members
 
 | Name | Code | E-mail | GitHub username |
 | - | - | - | - |
