@@ -9,9 +9,9 @@
 
 [Kotlin Repository](https://github.com/MOVILES-G22-2025/Kotlin)
 
-[Backend Repository]
+[Backend Repository](https://github.com/MOVILES-G22-2025/Backend)
 
-[Analytics Repository]
+[Analytics Repository](https://github.com/MOVILES-G22-2025/Analytics)
 
 ### Team members
 
