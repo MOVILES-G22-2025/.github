@@ -7,7 +7,7 @@
 
 [Flutter Repository](https://github.com/MOVILES-G22-2025/Flutter)
 
-[Kotlin Repository](https://github.com/MOVILES-G22-2025/Kotlin)
+[Kotlin Repository](https://github.com/MOVILES-G22-2025/SeneMarket-Kotlin)
 
 [Backend Repository](https://github.com/MOVILES-G22-2025/Backend)
 
