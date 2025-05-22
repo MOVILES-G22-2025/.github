@@ -22,4 +22,4 @@
 | Daniela Castrillón Castro | 202011778 | d.castrillonc@uniandes.edu.co | dcastrillonc |
 | Mateo Calderón Rincón | 202213589| m.calderonr@uniandes.edu.co | MateoCr816|
 | Juan Jose Cediel Borrero | 202212212 | jj.cediel@uniandes.edu.co | jcedielb | 
-| Nicolás Miguel Murillo Cristancho | 202213891 | n.murilloc@uniandes.edu.co | nicolas23589 | 
+| ~Nicolás Miguel Murillo Cristancho~ | ~202213891~ | ~n.murilloc@uniandes.edu.co~ | ~nicolas23589~ | 
